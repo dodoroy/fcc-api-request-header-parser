@@ -1,0 +1,23 @@
+{  
+  "name": "effy-request-header-parser",
+  "version": "0.0.1",
+  "description": "a full stack JavaScript app that shows the IP address, language and operating system of the browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/dodoroy/fcc-api-request-header-parser"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
